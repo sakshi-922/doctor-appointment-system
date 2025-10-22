@@ -1,2 +1,6 @@
-# doctor-appointment-system
-Full-Stack project for doctor appointment booking using Node.js, Express.js, and MongoDB.
+# Doctor Appointment Booking System
+
+This project will showcase my backend development skills for the Juspay Backend Engineer role.  
+Tech Stack: Node.js, Express.js, MongoDB, JWT Authentication.  
+
+Currently under development — the complete version with deployment will be available by [insert your date, e.g. 27th Oct 2025].
